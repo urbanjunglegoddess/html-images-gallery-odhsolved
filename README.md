@@ -65,7 +65,7 @@ This assignment should prove that a student is able to:
 **For the index.html file:**
 
 - [x] Connect the scripts.js file
-- [ ] Connect the layout.css file
+- [x] Connect the layout.css file
 - [ ] Connect the images-list.css file
 - [ ] Add the image file path for each gallery item's image
   - Plants: plant-image.jpg
